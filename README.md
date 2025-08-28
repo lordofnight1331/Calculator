@@ -55,11 +55,7 @@ Optional enhancements like **theme toggling** or **animation** can also be added
  Beginner-friendly, easy to understand code  
  Organized into HTML, CSS, and JS files
 
----
-
-##  Live Demo
-
- [Click here to view live](https://your-live-demo-link.com)
+--- 
 
 > Make sure to deploy your calculator on GitHub Pages, Netlify, or Vercel.
 
