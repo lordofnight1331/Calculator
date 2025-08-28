@@ -1,10 +1,10 @@
-# 🔢 Advanced Calculator Web App
+# Advanced Calculator Web App
 
 Welcome to the **Advanced Calculator Web Application** built using core web technologies — **HTML**, **CSS**, and **JavaScript**. This beginner-friendly project is a great introduction to interactive web development, helping developers understand how logic, styling, and structure work together to build responsive applications.
 
 ---
 
-## 🚀 Table of Contents
+##  Table of Contents
 
 1. [About the Project](#about-the-project)
 2. [Tech Stack](#tech-stack)
@@ -21,7 +21,7 @@ Welcome to the **Advanced Calculator Web Application** built using core web tech
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This project is a **simple, functional, and aesthetic calculator** that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, division, percentage calculation, toggling signs, and deleting inputs.
 
@@ -31,7 +31,7 @@ Whether you are just getting started or revisiting the basics, this calculator a
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -43,29 +43,29 @@ Optional enhancements like **theme toggling** or **animation** can also be added
 
 ---
 
-## ✨ Project Features
+## Project Features
 
-✅ Clean, modern, and minimal user interface  
-✅ Functional calculator logic using JavaScript  
-✅ Supports: `+`, `-`, `*`, `/`, `%`, `DEL`, `AC`, `=`, `±`  
-✅ Input handled via buttons for better user experience  
-✅ Highlighted operator buttons  
-✅ Animated press effect for feedback  
-✅ Fully responsive for mobile and desktop  
-✅ Beginner-friendly, easy to understand code  
-✅ Organized into HTML, CSS, and JS files
+ Clean, modern, and minimal user interface  
+ Functional calculator logic using JavaScript  
+ Supports: `+`, `-`, `*`, `/`, `%`, `DEL`, `AC`, `=`, `±`  
+ Input handled via buttons for better user experience  
+ Highlighted operator buttons  
+ Animated press effect for feedback  
+ Fully responsive for mobile and desktop  
+ Beginner-friendly, easy to understand code  
+ Organized into HTML, CSS, and JS files
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🔗 [Click here to view live](https://your-live-demo-link.com)
+ [Click here to view live](https://your-live-demo-link.com)
 
 > Make sure to deploy your calculator on GitHub Pages, Netlify, or Vercel.
 
 ---
 
-## 🧪 Getting Started
+##  Getting Started
 
 To run the project locally:
 
